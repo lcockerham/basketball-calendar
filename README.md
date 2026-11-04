@@ -2,7 +2,7 @@
 
 This project contains Python scripts to automatically import basketball game schedules into Google Calendar. It supports both Kentucky Wildcats and Eastern Kentucky Colonels basketball schedules, fetching the schedule live from the team's athletics site and creating Google Calendar events with calendar invites.
 
-This was mostly generated using Claude - I haven't closely code reviewed it, and only cleaned up things as I saw them. It works, but it is janky. I may come back next year and make some tweaks, but it got the job done for now.
+Built with Claude Code as an assistant. It's a personal tool, written for my own calendar, so expect rough edges if you adapt it.
 
 ## Features
 
